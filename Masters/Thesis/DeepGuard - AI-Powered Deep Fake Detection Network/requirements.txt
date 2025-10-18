@@ -1,0 +1,2 @@
+transformers accelerate sentencepiece
+open_clip_torch

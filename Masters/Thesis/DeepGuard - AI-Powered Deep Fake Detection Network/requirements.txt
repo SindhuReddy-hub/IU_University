@@ -1,2 +1,8 @@
 transformers accelerate sentencepiece
+torch
+torch[image]
+dlib
+pandas
+numpy
+torch_grad_cam
 open_clip_torch
